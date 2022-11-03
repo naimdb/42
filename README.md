@@ -1,5 +1,11 @@
-# 42
+# My 42Cursus
 
+# Rank 02
+## Push_Swap
+
+## So_long / ˜˜Fdf˜˜ / ˜˜fract_ol˜˜
+
+## Minitalk / Pipex
 
 # Rank 01
 ## Born2beRoot
